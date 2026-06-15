@@ -1,0 +1,1 @@
+console.log('Ready for GA4/HubSpot/Mailchimp');
